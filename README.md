@@ -1,2 +1,3 @@
-# remote-repo
-for testing git command
+# git-first-proj
+
+First project"adding text in master branch README,md" 
